@@ -8,7 +8,7 @@ This project is an Android application developed in Java that provides a compreh
 # <b> Customer App </b>
 1. User Registration and Login: Customers can create accounts and log in securely to access personalized features.
 2. Product Catalog: A wide range of products are displayed with details such as images, descriptions, prices, and availability.
-3. Search and Filter: Customers can easily search for specific products and use filters to narrow down their options.
+3. Search: Customers can easily search for specific products.
 4. Shopping Cart: Users can add items to their cart, view the contents, and adjust quantities before proceeding to checkout.
 5. Secure Checkout: Multiple payment options are available, ensuring a safe and convenient purchasing experience.
 6. Order History: Customers can track their order history and view the status of their shipments.
@@ -16,8 +16,7 @@ This project is an Android application developed in Java that provides a compreh
 # <b> Admin Dashboard </b>
 1. Login and Authentication: Admins can securely access the dashboard with unique credentials.
 2. Product Management: Admins can add, edit, and delete products from the inventory, including details and images.
-3. Order Management: The dashboard allows admins to view and process customer orders, update order statuses, and track shipments.
-4. Customer Management: Admins can manage customer accounts, view their details, and handle support inquiries.
+3. Order Management: The dashboard allows admins to view and process customer orders, update order status, and track shipments.
 The Admin dashboard is incomplete yet.
 
 # <b> Technology Stack </b>
